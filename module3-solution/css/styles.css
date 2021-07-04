@@ -59,7 +59,7 @@ p {
   color: black;
 }
 
-.navbar-brand a:hover, .navbar-brand a:focus {
+.nav-brand:hover, .nav-brand:focus {
   text-decoration: none;
 }
 
