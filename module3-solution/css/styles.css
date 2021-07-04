@@ -58,6 +58,10 @@ p {
   color: #FFFFFF;
 }
 
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
 #header-nav {
   border-radius: 0;
   border: 0;
