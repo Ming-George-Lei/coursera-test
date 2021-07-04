@@ -60,6 +60,7 @@ p {
 }
 
 .nav-brand:hover, .nav-brand:focus {
+  display: none;
   text-decoration: none;
 }
 
