@@ -55,7 +55,8 @@ p {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: #FFFFFF;
+  padding: 10px;
+  color: black;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
